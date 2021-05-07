@@ -1,0 +1,35 @@
+.principal{
+    width: 90%;
+    margin: 0 auto;
+   display: block;
+}
+
+.box{
+    display: flex;
+    margin: 6%;
+    display: flex;
+    justify-content: center;
+}
+
+.boxNasa{
+   display: flex;
+   justify-content: space-around;
+}
+
+#titulo{
+    width: 40%;
+    font-weight: bold;
+
+}
+
+#foto{
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-image:url(apod.jpg);
+    background-repeat: no-repeat;
+    background-size: 120%;
+
+}
